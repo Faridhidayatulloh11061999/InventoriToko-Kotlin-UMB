@@ -4,32 +4,15 @@
 
 
 
-# 📱 Aplikasi Login & Register Android dengan SQLite
+# 📱 Aplikasi Inventory Toko
 
-Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan register dan login menggunakan database lokal SQLite. Dibangun menggunakan Java, XML, dan SQLite dengan Android Studio.
+Sebuah aplikasi Android sederhana inventory toko.
 
 
 
 ---
 
 ## 🚀 Fitur
-
-
----
-
-* **Register dengan Nama, Email, Kata Sandi, dan Konfirmasi Kata Sandi**
-* **Login menggunakan Email dan Kata Sandi yang sudah didaftarkan**
-* **Validasi input:**
-
-  * Format email harus valid
-  * Kata sandi minimal 6 karakter
-  * Kata sandi dan konfirmasi harus sama
-* **Simpan data pengguna secara lokal menggunakan SQLite**
-* **Tampilkan pesan sambutan dengan nama pengguna setelah login**
-
----
-
-## 🧭 Alur Aplikasi
 
 1. **Aplikasi Dibuka**
    - Langsung menampilkan halaman Login.
