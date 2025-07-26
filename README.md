@@ -34,7 +34,7 @@ Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan reg
 1. **Aplikasi Dibuka**
    - Langsung menampilkan halaman Login.
 
-2. **Login**
+2. **Tampilan Login**
    - User mengisi Email dan Password
    - Validasi:
      - Format email harus valid
@@ -46,36 +46,37 @@ Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan reg
      - Tampilkan pesan error
    - Tersedia tombol untuk berpindah ke halaman Register
 
-3. **Register**
+3. **Menambahkan User Baru**
    - User mengisi:
      - Nama
      - Email
      - Password
      - Konfirmasi Password
-   - Validasi:
-     - Semua input harus diisi
-     - Email harus valid
-     - Password dan konfirmasi minimal 6 karakter dan harus cocok
-     - Email belum pernah digunakan
-   - Jika valid:
-     - Simpan data ke SQLite
-     - Arahkan ke halaman Login
-
-4. **MainActivity**
-   - Menampilkan pesan: `Selamat Datang, [Nama User]`
-
+4. **Berhasil Login**
+   berhasil masuk akun
+5. **List Barang**
+   Menampilkan Barang
+6. **Tambah Keranjang**
+   Menambahkan barang ke keranjang
+7.**Tampilan Keranjang**
+8. **Pembayaran Sukses**
+   Barang berhasil di bayar
+   
 ---
 ## 📱Tampilan Login 
-![alt text](https://github.com/Faridhidayatulloh11061999/Pemrograman4-UMB/blob/master/gambar/LOGIN.png?raw=true)
-## 📲Tampilan Register
-![alt text](https://github.com/Faridhidayatulloh11061999/Pemrograman4-UMB/blob/master/gambar/REGISTER.png?raw=true)
-## 📵Login Gagal
-![alt text](https://github.com/Faridhidayatulloh11061999/Pemrograman4-UMB/blob/master/gambar/EMAIL%20TIDAK%20ADA.png?raw=true)
-## ⛔Password kurang dari 6 karakter
-![alt text](https://github.com/Faridhidayatulloh11061999/Pemrograman4-UMB/blob/master/gambar/KARAKTER%206.png?raw=true)
-## ✅Login Berhasil
-![alt text](https://github.com/Faridhidayatulloh11061999/Pemrograman4-UMB/blob/master/gambar/LOGIN%20BERHASIL.png?raw=true)
-## 🛠️ Tools & Teknologi
+![alt text](https://github.com/Faridhidayatulloh11061999/InventoriToko-Kotlin-UMB/blob/master/tampilan%20login.png?raw=true)
+## 📲Menambahkan User Baru
+![alt text](https://github.com/Faridhidayatulloh11061999/InventoriToko-Kotlin-UMB/blob/master/Register%20Pengguna%20Baru.png?raw=true)
+## **Berhasil Login**
+![alt text](https://github.com/Faridhidayatulloh11061999/InventoriToko-Kotlin-UMB/blob/master/Berhasil%20Login.png?raw=true)
+## Tampilan List Barang
+![alt text](https://github.com/Faridhidayatulloh11061999/InventoriToko-Kotlin-UMB/blob/master/List%20Barang.png?raw=true)
+## ✅Tambah Keranjang
+![alt text](https://github.com/Faridhidayatulloh11061999/InventoriToko-Kotlin-UMB/blob/master/Menambahkan%20barang%20ke%20keranjang.png?raw=true)
+## Tampilan Keranjang
+![alt text](https://github.com/Faridhidayatulloh11061999/InventoriToko-Kotlin-UMB/blob/master/Keranjang.png?raw=true)
+## ✅Pembayaran Sukses
+![alt text](https://github.com/Faridhidayatulloh11061999/InventoriToko-Kotlin-UMB/blob/master/Pembayaran%20Berhasil.png?raw=true)
 
 - Java
 - XML Layouts
