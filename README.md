@@ -61,12 +61,6 @@ Sebuah aplikasi Android sederhana inventory toko.
 ## ✅Pembayaran Sukses
 ![alt text](https://github.com/Faridhidayatulloh11061999/InventoriToko-Kotlin-UMB/blob/master/Pembayaran%20Berhasil.png?raw=true)
 
-- Java
-- XML Layouts
-- Android Studio
-- SQLite
-- Toast & Intent handling
-
 ---
 
 ## 📦 Cara Menjalankan
