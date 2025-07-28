@@ -8,7 +8,40 @@
 
 Sebuah aplikasi Android sederhana inventory toko.
 
+# 🧭 Alur Aplikasi
+1. Aplikasi Dibuka
+- Langsung menampilkan halaman Login.
+- Login
 
+2. Input Email dan Password
+* Jika Berhasil:
+* Arahkan ke halaman MainActivity
+* Jika Gagal:
+  Tampilkan pesan error
+   Fitur Tambahan:
+  - Tombol untuk menuju halaman Register
+  
+3. Register
+* Input:
+   Nama
+   Email
+   Password
+
+4. List Barang
+* Menampilkan daftar barang yang tersedia
+* User dapat memilih produk
+
+5. Keranjang
+* Produk yang dipilih ditambahkan ke keranjang
+   Menampilkan:
+   Nama produk
+   Jumlah
+   Total harga
+   Tombol "Bayar" tersedia
+   Pembayaran Sukses
+
+6. Setelah klik bayar, muncul:
+   Pembayaran Sukses
 
 ---
 
