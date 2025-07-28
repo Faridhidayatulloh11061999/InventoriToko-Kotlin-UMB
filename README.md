@@ -8,6 +8,34 @@
 
 Sebuah aplikasi Android sederhana inventory toko.
 
+# 📱 Cara Instalasi
+1. Clone Repository
+  https://github.com/Faridhidayatulloh11061999/InventoriToko-Kotlin-UMB
+2. Aplikasi Dibuka
+   Langsung menampilkan halaman Login.
+3. Login
+* User mengisi Email dan Password
+* Validasi:
+- Format email harus valid
+- Password minimal 6 karakter
+* Jika login sukses:
+- Arahkan ke halaman MainActivity
+- Tampilkan: Selamat Datang, [Nama User]
+* Jika gagal:
+- Tampilkan pesan error
+- Tersedia tombol untuk berpindah ke halaman Register
+
+4. Register
+* User mengisi
+  Nama
+  Email
+  Password
+5.  List Barang menampilkan List Barang
+
+6. keranjang menambahkan produk ke keranjang
+
+7. Pembayaran Sukses Pembayaran Sukses
+
 # 🧭 Alur Aplikasi
 1. Aplikasi Dibuka
 - Langsung menampilkan halaman Login.
