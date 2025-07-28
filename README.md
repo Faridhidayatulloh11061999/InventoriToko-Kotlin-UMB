@@ -16,14 +16,14 @@ Sebuah aplikasi Android sederhana inventory toko.
 3. Login
 * User mengisi Email dan Password
 * Validasi:
-- Format email harus valid
-- Password minimal 6 karakter
+  Format email harus valid
+  Password minimal 6 karakter
 * Jika login sukses:
-- Arahkan ke halaman MainActivity
-- Tampilkan: Selamat Datang, [Nama User]
+   Arahkan ke halaman MainActivity
+   Tampilkan: Selamat Datang, [Nama User]
 * Jika gagal:
-- Tampilkan pesan error
-- Tersedia tombol untuk berpindah ke halaman Register
+   Tampilkan pesan error
+   Tersedia tombol untuk berpindah ke halaman Register
 
 4. Register
 * User mengisi
@@ -38,8 +38,8 @@ Sebuah aplikasi Android sederhana inventory toko.
 
 # 🧭 Alur Aplikasi
 1. Aplikasi Dibuka
-- Langsung menampilkan halaman Login.
-- Login
+   Langsung menampilkan halaman Login.
+   Login
 
 2. Input Email dan Password
 * Jika Berhasil:
